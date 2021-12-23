@@ -6,10 +6,8 @@ Created on Sun Nov 28 19:39:58 2021
 """
 
 import numpy as np
-import random as rnd
 import copy
 from scipy import linalg
-import matplotlib.pyplot as plt
 import tqdm
 
 class LatticeQCD:
